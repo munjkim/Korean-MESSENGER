@@ -1,21 +1,52 @@
-Manual License
+Korean-MESSENGER Dataset License
+(학술 및 비상업적 연구 목적 이용 라이선스)
 
-Copyright (c) 2024 Munjeong Kim
+Copyright (c) 2024 Munjeong Kim, Junsang Song, Sunjun Kim (DGIST)
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+본 데이터셋(Korean-MESSENGER, 이하 "데이터셋")은 아래 조건 하에서만
+이용이 허가됩니다.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. 이용 목적 제한 (Non-Commercial Academic Use Only)
+   본 데이터셋은 학술 및 비상업적 연구 목적으로만 사용할 수 있습니다.
+   상업적 제품, 서비스 개발, 영리 목적의 활용은 허용되지 않습니다.
+   This dataset may be used solely for academic and non-commercial
+   research purposes. Any commercial use, including incorporation into
+   commercial products or services, is prohibited.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+2. 원본 말뭉치 이용 신청 의무 (Original Corpus Access Requirement)
+   본 데이터셋은 국립국어원 언어정보나눔터에서 배포한 '온라인 대화
+   말뭉치 2021 (버전 1.0)'과 '메신저 말뭉치 (버전 2.0)'를 가공하여
+   제작되었습니다. 이용자는 반드시 아래 절차를 따라야 합니다.
+   a) 국립국어원 언어정보나눔터(https://kli.korean.go.kr/corpus)를
+      인용할 것
+   b) 위 사이트에 가입 후 '온라인 대화 말뭉치 2021'과 '메신저 말뭉치'에
+      대한 사용 신청을 별도로 완료할 것
+
+3. 출처 및 논문 인용 의무 (Citation Requirement)
+   본 데이터셋을 연구에 이용하는 경우, 아래 논문을 인용해야 합니다.
+
+   김문정, 송준상, 김선준. "한국어 텍스트 입력 평가를 위한 문장
+   데이터셋." Proceedings of HCI Korea 2025, pp. 37-41.
+
+   Munjeong Kim, Junsang Song, Sunjun Kim. "A Sentence Dataset for
+   Korean Text Entry Evaluations." Proceedings of HCI Korea 2025,
+   pp. 37-41.
+
+4. 재배포 (Redistribution)
+   본 데이터셋 또는 이를 기반으로 한 파생물을 재배포하는 경우,
+   본 라이선스 전문과 위 1~3항의 조건을 그대로 포함해야 합니다.
+   국립국어원 원본 말뭉치의 재배포 제한 사항이 있는 경우 이를 함께
+   준수해야 합니다.
+
+5. 보증의 부인 (No Warranty)
+   본 데이터셋은 "있는 그대로(AS IS)" 제공되며, 상품성, 특정 목적에의
+   적합성 등에 대한 어떠한 명시적 또는 묵시적 보증도 하지 않습니다.
+   저자는 본 데이터셋의 사용으로 인해 발생하는 어떠한 손해에 대해서도
+   책임을 지지 않습니다.
+
+   THIS DATASET IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+   EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+   MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+   NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY
+   CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM THE USE OF THIS
+   DATASET.
